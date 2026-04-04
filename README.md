@@ -8,12 +8,12 @@ A simple Audio-Visualizer circuit
    An OLED screen used for displaying contents
 
 ### Pinout
-For Microphone:
-W2S pin     ->   5
-L/R pin     ->  GND
-SDK pin     ->   4
-SD pin      ->   6
+For Microphone: 
+- W2S pin     ->   5 
+- L/R pin     ->  GND 
+- SDK pin     ->   4 
+- SD pin      ->   6 
 
-For SSD1306:
-SCK pin     ->   12
-SDA pin     ->   11
+For SSD1306: \n
+- SCK pin     ->   12 
+- SDA pin     ->   11 
